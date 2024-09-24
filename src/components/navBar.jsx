@@ -8,7 +8,7 @@ import logo from "../assets/logo.svg"
 const NavBar = () => {
     return(
         <div className="nav">
-            <header className="name-logo">theCrypto Consulte</header>
+            <header className="name-logo">theCrypto Consult</header>
              <div className="navBar">
                  <ul>
                     <li className="about">

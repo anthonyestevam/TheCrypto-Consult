@@ -6,7 +6,16 @@
     width: 200px;
     padding: 15px;
     margin-left: 20px;
+
     
-    
-    
+}
+
+.search{
+    width: 400px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 650px;
+    background-color: rgb(202, 202, 202);
+    border-radius: 10px;
+    text-align: center;
 }
