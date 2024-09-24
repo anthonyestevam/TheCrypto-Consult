@@ -1,0 +1,13 @@
+*{
+    font-family: "Noto Sans", sans-serif
+}
+
+body {
+    background-color: #0e1217;
+    color: white;
+    font-weight: bolder;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}

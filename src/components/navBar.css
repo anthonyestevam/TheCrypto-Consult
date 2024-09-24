@@ -1,0 +1,49 @@
+.nav {
+    border-bottom: solid 4px black;
+    padding-bottom: 20px;
+}
+.logo-image {
+    position: absolute;
+    width: 65px;
+    left: 550px;
+}
+
+.name-logo{
+    font-size: 50px;
+    position: relative;
+    left: 30px;}
+        
+
+ul {
+    list-style: none
+}
+
+.contact {
+    position: absolute;
+    left: 125px;
+    top: 16px;
+    
+}
+
+.about {
+    position: absolute;
+    left: 400px;
+    top: 5px;
+    text-align: center;
+    border-top-color: black ;
+}
+
+ul li {
+    cursor: pointer;
+    transition: 170ms;
+}
+
+ul li:hover {
+    border-bottom: solid 4px white;
+}
+.navBar {
+    position: absolute;
+    font-weight: bold;
+    left: 1200px;
+    top: 30px;
+}
