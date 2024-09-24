@@ -1,7 +1,7 @@
 import React from "react";
 import NavBar from "../../components/navBar";
 
-const Sobre = () => {
+const About = () => {
     return(
         <div>
             <NavBar />
@@ -9,4 +9,4 @@ const Sobre = () => {
     )
 }
 
-export default Sobre
+export default About

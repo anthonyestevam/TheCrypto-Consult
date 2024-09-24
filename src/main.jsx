@@ -4,8 +4,7 @@ import App from './App.jsx'
 import './index.css'
 
 //routes
-import Contact from './routes/contact/contact.jsx'
-import Sobre from './routes/sobre/Sobre.jsx'
+import About from './routes/about/About.jsx'
 
 import { createBrowserRouter, RouterProvider, Route } from 'react-router-dom'
 const router = createBrowserRouter([
@@ -15,7 +14,7 @@ const router = createBrowserRouter([
   },
   {
     path:"/about",
-    element: <Sobre />,
+    element: <About />,
   }
 ])
 
